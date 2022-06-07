@@ -43,3 +43,5 @@
     * Practicing Closure
     * Practicing Prototypes
     * Suggested Solutions
+
+[Next: Forword](https://github.com/ririyad/You-Dont-Know-JS/blob/2nd-ed/get-started/foreword.md)
