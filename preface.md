@@ -83,6 +83,7 @@ These books are meant to be a field-guide on your wanderings through JavaScript,
 
 I'm so glad you're embarking on this journey, and I am so honored you would consider and consult these books along the way. It's time to start *getting to know JS*.
 
-[Previous: Preface](https://github.com/ririyad/You-Dont-Know-JS/blob/2nd-ed/preface.md)
 
 [Next: Chapter 1: What Is JavaScript?](https://github.com/ririyad/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md)
+
+[Previous: Preface](https://github.com/ririyad/You-Dont-Know-JS/blob/2nd-ed/preface.md)
