@@ -21,3 +21,6 @@ Brian Holt<br>
 Senior Program Manager<br>
 Visual Studio Code and Node.js on Azure<br>
 Microsoft
+
+[Previous: Table of Contents](https://github.com/ririyad/You-Dont-Know-JS/blob/2nd-ed/get-started/toc.md)
+[Next: Preface](https://github.com/ririyad/You-Dont-Know-JS/blob/2nd-ed/preface.md)
