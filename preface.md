@@ -82,3 +82,7 @@ It's never my goal to convince you to agree with my opinion, but to encourage yo
 These books are meant to be a field-guide on your wanderings through JavaScript, from wherever you currently are with the language, to a place of deeper understanding. And the deeper you understand JS, the more questions you will ask and the more you will have to explore! That's what I find so exciting!
 
 I'm so glad you're embarking on this journey, and I am so honored you would consider and consult these books along the way. It's time to start *getting to know JS*.
+
+[Previous: Preface](https://github.com/ririyad/You-Dont-Know-JS/blob/2nd-ed/preface.md)
+
+[Next: Chapter 1: What Is JavaScript?](https://github.com/ririyad/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md)
